@@ -1,6 +1,6 @@
 # consumo_reg_linear
-O modelo tem como foco o estudo sobre regressão linear e análise exploratória.
-Segue descritivo das variáveis encontradas no DS
+<p>O modelo tem como foco o estudo sobre regressão linear e análise exploratória.</p>
+<p>Segue descritivo das variáveis encontradas no DS</p>
     <li><b>data</b> - É a data de quando foram coletados os dados</li>
     <li><b>temp_media</b> - Temperatura média do dia coletado em graus Celsius</li>
     <li><b>temp_min</b> - Temperatura miníma do dia coletado em graus Celsius</li>
